@@ -2317,6 +2317,35 @@ section {
 }
 
 
+#features .features-section-social-links a {
+  font-size: 23px;
+  display: inline-block;
+  background: #0D6EFD;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  transition: 0.3s;
+}
+
+#about .cevest-social-links a {
+  font-size: 23px;
+  display: inline-block;
+  background: #0D6EFD;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 40px;
+  height: 40px;
+  transition: 0.3s;
+}
 
 
 
