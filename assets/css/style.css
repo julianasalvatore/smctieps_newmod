@@ -2347,9 +2347,68 @@ section {
   transition: 0.3s;
 }
 
+/*---- cta section style start ----*/
+
+section#faq {
+  background: var(--linear-gradient);
+}
+
+.cta-button {
+  background: var(--bs-light);
+  color: var(--bs-black);
+}
+
+.cta-button:hover,
+.cta-button:active,
+.cta-button:focus {
+  background: var(--bs-light);
+  color: var(--bs-black);
+}
+
+@media only screen and (max-width: 770px) {
+  .cta-pattern-overlay {
+    display: none;
+  }
+  
+}
+
+section.cta:after {
+  content: "";
+ background:#268e96;
+  width: 980px;
+   height: 956px;
+   display: block;
+   position: absolute;
+   bottom: -110px;
+   right: -480px;
+   z-index: -1;
+ }
 
 
+/*---- Facts Section style start ----*/
 
+section#faq {
+  background: var(--linear-gradient);
+}
 
+.cta-button {
+  background: var(--bs-light);
+  color: var(--bs-black);
+}
+
+.cta-button:hover,
+.cta-button:active,
+.cta-button:focus {
+  background: var(--bs-light);
+  color: var(--bs-black);
+}
+
+@media only screen and (max-width: 770px) {
+  .cta-pattern-overlay {
+    display: none;
+  }
+}
+
+/*---- END Facts Section style start ----*/
 
 
