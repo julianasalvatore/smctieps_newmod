@@ -585,6 +585,15 @@ section {
   margin-bottom: 0;
 }
 
+.cevest-banner-w {
+  text-align: center;
+  padding-bottom: 30px;
+  width: 60%; 
+  height: auto; 
+
+  display: block;
+}
+
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
