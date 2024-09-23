@@ -1424,6 +1424,17 @@ section {
   left: 0;
   right: 0; /* Preenche toda a largura */
 }
+.blue-banner {
+  background-color: #2f8cf7; /* Cor de fundo vermelha */
+  color: #fff; /* Texto branco */
+  text-align: center;
+  padding: 10px 0; /* Espaçamento interno */
+  font-size: 14px; /* Tamanho da fonte */
+  position: absolute; /* Posiciona a tarja */
+  bottom: 0; /* Fica na parte inferior */
+  left: 0;
+  right: 0; /* Preenche toda a largura */
+}
 
 
 
